@@ -1,0 +1,24 @@
+{
+  "name": "error-handling-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "verror": "^1.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/verror": "^1.10.11",
+    "tsx": "^4.19.3"
+  }
+}
